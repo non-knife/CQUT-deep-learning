@@ -1,1 +1,3 @@
 Pytorch实现MNIST数据集分类
+
+data: https://www.kaggle.com/competitions/digit-recognizer/data
