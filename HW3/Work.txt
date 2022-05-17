@@ -1,0 +1,1 @@
+调整使用不同神经元个数造成过拟合情况、学习率、尝试dropout比率、不同激活函数（Sigmoid，Relu，leakyReLU）、尝试不同优化器（SGD，Adagrad，RMSProp，ADAM），不同weight_decay，momentum取值
