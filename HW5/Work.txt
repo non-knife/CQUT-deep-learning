@@ -1,0 +1,1 @@
+用Pytorch分别搭建VGG-16，ResNet，InceptionNet骨干网实现CIFAR-10数据集分类。
